@@ -1,0 +1,10 @@
+task_id,shot_id,type,input_image,prompt,negative_prompt,duration,aspect_ratio,motion,camera,seed,output_path,status
+A1,A1,multimodal2video,variants/0528_presenter_product/images/storyboard/S01.png,参考真人产品讲解广告语法：女性主持人面对镜头自然介绍产品，现代家轿旁，底部留字幕区，不出现可读logo、车牌、价格和乱码文字。,logo;车牌;价格;乱码文字,5,9:16,轻微推进,主持人半身,,videos/jimeng_clips/A1.mp4,ready_after_recharge
+A2,A2,multimodal2video,variants/0528_presenter_product/images/storyboard/S02.png,汽车外观B-roll：灯组、前脸、侧身、轮毂细节，光泽质感，轻微推进或横移，不出现车牌和可读logo。,logo;车牌;价格;乱码文字,5,9:16,横移,外观特写,,videos/jimeng_clips/A2.mp4,ready_after_recharge
+A3,A3,multimodal2video,variants/0528_presenter_product/images/storyboard/S03.png,汽车内饰B-roll：中控、座椅、后排空间、储物，强调家用和舒适，不出现可读UI和价格。,logo;可读UI;价格;乱码文字,8,9:16,慢推,内饰中景,,videos/jimeng_clips/A3.mp4,ready_after_recharge
+A4,A4,multimodal2video,variants/0528_presenter_product/images/storyboard/S04.png,主持人站车旁自然召唤预约试驾，指向底部CTA区，不出现固定价格，活动以门店实时信息为准。,logo;车牌;价格;乱码文字,5,9:16,稳定,主持人半身,,videos/jimeng_clips/A4.mp4,ready_after_recharge
+B1,B1,multimodal2video,variants/0529_short_drama_conversion/images/storyboard/S01.png,短剧投流广告语法：下班通勤低谷，冷色压抑，人群流动，女主疲惫。,logo;车牌;价格;乱码文字,5,9:16,慢推,人物特写,,videos/jimeng_clips/B1.mp4,ready_after_recharge
+B2,B2,multimodal2video,variants/0529_short_drama_conversion/images/storyboard/S02.png,手机消息触发她去看车，眼神从疲惫转为专注，不出现真实UI字。,真实UI;乱码文字;价格,5,9:16,推近,手机与人物,,videos/jimeng_clips/B2.mp4,ready_after_recharge
+B3,B3,multimodal2video,variants/0529_short_drama_conversion/images/storyboard/S03.png,她穿黑色西装外套走进汽车展厅，状态变强，银色家轿在背景。,logo;车牌;价格;乱码文字,6,9:16,跟拍,中景,,videos/jimeng_clips/B3.mp4,ready_after_recharge
+B4,B4,multimodal2video,variants/0529_short_drama_conversion/images/storyboard/S04.png,她坐在驾驶位试驾，状态放松自信，表现“开起来答案更清楚”。,logo;车牌;价格;乱码文字,7,9:16,轻推,车内中景,,videos/jimeng_clips/B4.mp4,ready_after_recharge
+B5,B5,multimodal2video,variants/0529_short_drama_conversion/images/storyboard/S05.png,黑金汽车转化卡，预约试驾、到店看车、实时活动、门店咨询，底部CTA。不要虚构固定价格。,具体价格;虚构补贴;logo;乱码文字,7,9:16,轻动效,转化卡,,videos/jimeng_clips/B5.mp4,ready_after_recharge

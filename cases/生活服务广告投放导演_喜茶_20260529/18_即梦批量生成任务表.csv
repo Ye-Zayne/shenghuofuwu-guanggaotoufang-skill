@@ -1,0 +1,6 @@
+task_id,shot_id,type,input_image,prompt,negative_prompt,duration,aspect_ratio,motion,camera,seed,output_path,status
+V01,S01,text2video,,竖屏9:16，现代城市商圈入口，年轻女性拿着手机犹豫选择饮品，镜头快速推近，下午阳光，真实广告视频质感，上方留标题空间，下方留字幕安全区，不出现真实logo。动作：她抬头看到茶饮门店，表情从犹豫到被吸引。,真实logo;乱码文字;畸形手指;低清晰度;横屏,4,9:16,快速推近,中近景,,videos/jimeng_clips/V01_hook.mp4,ready
+V02,S03,text2video,,竖屏9:16，葡萄果茶商业食品广告特写，葡萄果肉、茶汤、冰块、杯壁水珠，慢速微距推进，清爽通透，真实摄影，不出现logo。,真实logo;脏污杯子;低清晰度;横屏,4,9:16,慢速微距推进,大特写,,videos/jimeng_clips/V02_product.mp4,ready
+V03,S05,text2video,,竖屏9:16，年轻女性在商场中庭喝第一口茶饮，表情从疲惫到放松，背景明亮，高级茶饮广告质感，镜头轻微推近。,真实logo;夸张表情;低清晰度;横屏,5,9:16,轻微推近,中近景,,videos/jimeng_clips/V03_first_sip.mp4,ready
+V04,S06,text2video,,竖屏9:16，两个朋友在商场汇合，每人手持一杯简洁白杯茶饮，边走边聊天，轻松自然，生活方式广告质感。,真实logo;人脸崩坏;低清晰度;横屏,5,9:16,跟拍,半身,,videos/jimeng_clips/V04_social.mp4,ready
+V05,S09,text2video,,竖屏9:16，主角从现代茶饮门店走出，举杯看向镜头，画面右侧留行动号召空间，清爽高级，真实商业广告。,真实logo;乱码文字;低清晰度;横屏,4,9:16,缓慢拉远,中近景,,videos/jimeng_clips/V05_cta.mp4,ready

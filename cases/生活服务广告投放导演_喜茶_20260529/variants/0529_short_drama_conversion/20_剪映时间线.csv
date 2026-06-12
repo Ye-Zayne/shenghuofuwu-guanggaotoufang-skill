@@ -1,0 +1,6 @@
+track,start,end,duration,asset_path,asset_type,shot_id,subtitle,voiceover,bgm,sfx,transition,effect,scale,position,notes
+V1,0,5,5,videos/dreamina/S01_lowpoint.mp4,video,S01,我才35岁，怎么每天都这么累？,我才35岁，怎么每天都这么累？,短剧紧张铺底,low_hit,压抑开场,冷调,100%,center,短剧低谷
+V1,5,10,5,videos/dreamina/S02_trigger.mp4,video,S02,直到朋友发来一句：出来喝一杯,直到朋友发来一句：出来喝一杯,短剧紧张铺底,phone,消息触发,,100%,center,转折
+V1,10,16,6,videos/dreamina/S03_transform.mp4,video,S03,这一口，让我重新有了状态,这一口，让我重新有了状态,节奏抬升,beat,变强转场,暖色提升,100%,center,变强
+V1,16,23,7,videos/dreamina/S04_success_chat.mp4,video,S04,原来暂停一下，也能继续向前,原来暂停一下，也能继续向前,节奏抬升,ambient,成功场景,,100%,center,结果
+V1,23,30,7,videos/dreamina/S05_offer_card.mp4,video,S05,附近门店可下单，活动以平台实时信息为准,附近门店可下单，活动以平台实时信息为准,黑金转化,button,强CTA,转化卡,100%,center,利益卡

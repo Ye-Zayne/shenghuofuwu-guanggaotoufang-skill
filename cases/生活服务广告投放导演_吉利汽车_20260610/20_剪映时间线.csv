@@ -1,0 +1,5 @@
+track,start,end,duration,asset_path,asset_type,shot_id,subtitle,voiceover,bgm,sfx,transition,effect,scale,position,notes
+V1,0,5,5,videos/jimeng_clips/A1.mp4,video,A1,又要颜值，又要家用？,又要颜值，又要家用，这台车可以看看,汽车信息流,whoosh,主持人开场,轻锐化,100%,center,视频生成后替换
+V1,5,10,5,videos/jimeng_clips/A2.mp4,video,A2,外观舒展，日常有质感,外观看起来舒展，日常开也不显普通,汽车信息流,cut,外观B-roll,,100%,center,视频生成后替换
+V1,10,18,8,videos/jimeng_clips/A3.mp4,video,A3,空间、座椅、智能座舱,空间座椅屏幕和储物，才是每天都用得到的地方,汽车信息流,soft_pop,内饰B-roll,,100%,center,视频生成后替换
+V1,18,23,5,videos/jimeng_clips/A4.mp4,video,A4,到店试驾，感受最直接,买车别只听别人说，最好到店试驾一圈,汽车信息流,tap,CTA,,100%,center,视频生成后替换

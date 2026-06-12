@@ -1,0 +1,106 @@
+{
+  "status": "paused_before_video",
+  "ratio": "9:16",
+  "model_version": "seedance2.0fast",
+  "units": [
+    {
+      "unit": "A1",
+      "title": "真人主持人开场",
+      "variant": "0528_presenter_product",
+      "duration": 5,
+      "ratio": "9:16",
+      "reference_image": "variants/0528_presenter_product/images/storyboard/S01.png",
+      "reference_video": "references/style_refs/ref_0528_presenter_product.mp4",
+      "expected_output": "videos/jimeng_clips/A1.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "A2",
+      "title": "产品细节B-roll",
+      "variant": "0528_presenter_product",
+      "duration": 5,
+      "ratio": "9:16",
+      "reference_image": "variants/0528_presenter_product/images/storyboard/S02.png",
+      "reference_video": "references/style_refs/ref_0528_presenter_product.mp4",
+      "expected_output": "videos/jimeng_clips/A2.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "A3",
+      "title": "取茶台",
+      "variant": "0528_presenter_product",
+      "duration": 5,
+      "ratio": "9:16",
+      "reference_image": "variants/0528_presenter_product/images/storyboard/S03.png",
+      "reference_video": "references/style_refs/ref_0528_presenter_product.mp4",
+      "expected_output": "videos/jimeng_clips/A3.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "A4",
+      "title": "主持人CTA",
+      "variant": "0528_presenter_product",
+      "duration": 5,
+      "ratio": "9:16",
+      "reference_image": "variants/0528_presenter_product/images/storyboard/S04.png",
+      "reference_video": "references/style_refs/ref_0528_presenter_product.mp4",
+      "expected_output": "videos/jimeng_clips/A4.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "B1",
+      "title": "短剧低谷",
+      "variant": "0529_short_drama_conversion",
+      "duration": 5,
+      "ratio": "9:16",
+      "reference_image": "variants/0529_short_drama_conversion/images/storyboard/S01.png",
+      "reference_video": "references/style_refs/ref_0529_short_drama_conversion.mp4",
+      "expected_output": "videos/jimeng_clips/B1.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "B2",
+      "title": "消息触发",
+      "variant": "0529_short_drama_conversion",
+      "duration": 5,
+      "ratio": "9:16",
+      "reference_image": "variants/0529_short_drama_conversion/images/storyboard/S02.png",
+      "reference_video": "references/style_refs/ref_0529_short_drama_conversion.mp4",
+      "expected_output": "videos/jimeng_clips/B2.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "B3",
+      "title": "状态跃迁",
+      "variant": "0529_short_drama_conversion",
+      "duration": 6,
+      "ratio": "9:16",
+      "reference_image": "variants/0529_short_drama_conversion/images/storyboard/S03.png",
+      "reference_video": "references/style_refs/ref_0529_short_drama_conversion.mp4",
+      "expected_output": "videos/jimeng_clips/B3.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "B4",
+      "title": "结果场景",
+      "variant": "0529_short_drama_conversion",
+      "duration": 7,
+      "ratio": "9:16",
+      "reference_image": "variants/0529_short_drama_conversion/images/storyboard/S04.png",
+      "reference_video": "references/style_refs/ref_0529_short_drama_conversion.mp4",
+      "expected_output": "videos/jimeng_clips/B4.mp4",
+      "status": "ready_to_run_after_recharge"
+    },
+    {
+      "unit": "B5",
+      "title": "转化卡",
+      "variant": "0529_short_drama_conversion",
+      "duration": 7,
+      "ratio": "9:16",
+      "reference_image": "variants/0529_short_drama_conversion/images/storyboard/S05.png",
+      "reference_video": "references/style_refs/ref_0529_short_drama_conversion.mp4",
+      "expected_output": "videos/jimeng_clips/B5.mp4",
+      "status": "ready_to_run_after_recharge"
+    }
+  ]
+}

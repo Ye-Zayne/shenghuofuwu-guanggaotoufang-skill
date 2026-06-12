@@ -1,0 +1,30 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": "又要颜值，又要家用？",
+    "shot_id": "A1",
+    "source": "timeline"
+  },
+  {
+    "start": 5.0,
+    "end": 10.0,
+    "text": "外观舒展，日常有质感",
+    "shot_id": "A2",
+    "source": "timeline"
+  },
+  {
+    "start": 10.0,
+    "end": 18.0,
+    "text": "空间、座椅、智能座舱",
+    "shot_id": "A3",
+    "source": "timeline"
+  },
+  {
+    "start": 18.0,
+    "end": 23.0,
+    "text": "到店试驾，感受最直接",
+    "shot_id": "A4",
+    "source": "timeline"
+  }
+]

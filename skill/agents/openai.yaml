@@ -1,0 +1,8 @@
+interface:
+  display_name: "生活服务广告投放导演"
+  short_description: "生成本地生活信息流广告投放素材包"
+  brand_color: "#0F766E"
+  default_prompt: "用 $life-service-ad-director 为一个生活服务商家生成竖屏9:16信息流广告投放素材包。"
+
+policy:
+  allow_implicit_invocation: true

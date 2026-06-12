@@ -1,0 +1,311 @@
+{
+  "project": "生活服务广告投放导演_喜茶_20260529",
+  "root": "/Users/zhangye/Documents/Codex/skill/生活服务广告投放导演_喜茶_20260529",
+  "status": {
+    "stop_before_video": true,
+    "has_preview_video": false,
+    "storyboard_frame_count": 9,
+    "subtitle_segment_count": 9,
+    "video_clip_count": 0,
+    "jimeng_task_count": 5
+  },
+  "phases": [
+    {
+      "id": "brief",
+      "title": "项目简报",
+      "files": [
+        {
+          "path": "00_项目简报.md",
+          "exists": true,
+          "size": 1480
+        },
+        {
+          "path": "00_流程清单.md",
+          "exists": true,
+          "size": 2108
+        },
+        {
+          "path": "00A_全流程步骤展示.md",
+          "exists": true,
+          "size": 5855
+        },
+        {
+          "path": "00B_ViMax式制片调度.md",
+          "exists": true,
+          "size": 1824
+        },
+        {
+          "path": "01_信息流投放策略.md",
+          "exists": true,
+          "size": 1098
+        }
+      ]
+    },
+    {
+      "id": "creative",
+      "title": "创意与镜头骨架",
+      "files": [
+        {
+          "path": "02_创意方向_3选1.md",
+          "exists": true,
+          "size": 885
+        },
+        {
+          "path": "03_3秒钩子库.md",
+          "exists": true,
+          "size": 741
+        },
+        {
+          "path": "docs/镜头表与单元切分.md",
+          "exists": true,
+          "size": 1737
+        },
+        {
+          "path": "docs/站位图.md",
+          "exists": true,
+          "size": 1358
+        },
+        {
+          "path": "docs/关键帧Prompt_逐张拆分版.md",
+          "exists": true,
+          "size": 2152
+        },
+        {
+          "path": "docs/Seedance_Prompt_逐单元.md",
+          "exists": true,
+          "size": 3521
+        }
+      ]
+    },
+    {
+      "id": "scripts",
+      "title": "脚本",
+      "files": [
+        {
+          "path": "04_60秒主广告脚本.md",
+          "exists": true,
+          "size": 1482
+        },
+        {
+          "path": "05_30秒剪辑版脚本.md",
+          "exists": true,
+          "size": 615
+        },
+        {
+          "path": "06_15秒剪辑版脚本.md",
+          "exists": true,
+          "size": 380
+        },
+        {
+          "path": "07_口播与字幕文案.md",
+          "exists": true,
+          "size": 844
+        },
+        {
+          "path": "07A_完整执行脚本.md",
+          "exists": true,
+          "size": 3904
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "镜头与拍摄",
+      "files": [
+        {
+          "path": "08_镜头表与拍摄脚本.md",
+          "exists": true,
+          "size": 1336
+        },
+        {
+          "path": "09_正反打镜头设计.md",
+          "exists": true,
+          "size": 733
+        },
+        {
+          "path": "10_拍摄执行清单.md",
+          "exists": true,
+          "size": 661
+        }
+      ]
+    },
+    {
+      "id": "visual",
+      "title": "视觉设定",
+      "files": [
+        {
+          "path": "11_人物设定.md",
+          "exists": true,
+          "size": 495
+        },
+        {
+          "path": "12_场景设定.md",
+          "exists": true,
+          "size": 565
+        },
+        {
+          "path": "13_道具服化与品牌露出.md",
+          "exists": true,
+          "size": 481
+        },
+        {
+          "path": "14_分镜图Prompt.md",
+          "exists": true,
+          "size": 1246
+        },
+        {
+          "path": "15_正反打图片Prompt.md",
+          "exists": true,
+          "size": 701
+        },
+        {
+          "path": "16_25宫格视觉板Prompt.md",
+          "exists": true,
+          "size": 636
+        }
+      ]
+    },
+    {
+      "id": "asset_index",
+      "title": "资产索引与一致性",
+      "files": [
+        {
+          "path": "asset_index/asset_manifest.json",
+          "exists": true,
+          "size": 3949
+        },
+        {
+          "path": "asset_index/reference_selection.md",
+          "exists": true,
+          "size": 2362
+        },
+        {
+          "path": "asset_index/consistency_checklist.md",
+          "exists": true,
+          "size": 541
+        },
+        {
+          "path": "asset_index/frame_qc.md",
+          "exists": true,
+          "size": 2427
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "即梦视频任务准备",
+      "files": [
+        {
+          "path": "17_即梦视频生成Prompt.md",
+          "exists": true,
+          "size": 1153
+        },
+        {
+          "path": "18_即梦批量生成任务表.csv",
+          "exists": true,
+          "size": 1702
+        },
+        {
+          "path": "videos/manifest.json",
+          "exists": true,
+          "size": 3966
+        },
+        {
+          "path": "videos/manifest.md",
+          "exists": true,
+          "size": 2082
+        },
+        {
+          "path": "videos/dreamina_commands.sh",
+          "exists": true,
+          "size": 2698
+        },
+        {
+          "path": "videos/retry_and_fallback_plan.md",
+          "exists": true,
+          "size": 1127
+        },
+        {
+          "path": "24_视频生成暂停与复跑说明.md",
+          "exists": true,
+          "size": 1398
+        }
+      ]
+    },
+    {
+      "id": "edit",
+      "title": "剪辑与字幕",
+      "files": [
+        {
+          "path": "19_剪映剪辑方案.md",
+          "exists": true,
+          "size": 740
+        },
+        {
+          "path": "20_剪映时间线.csv",
+          "exists": true,
+          "size": 2030
+        },
+        {
+          "path": "21_封面标题与投流文案.md",
+          "exists": true,
+          "size": 688
+        }
+      ]
+    },
+    {
+      "id": "delivery",
+      "title": "投流交付",
+      "files": [
+        {
+          "path": "22_投流素材变体方案.md",
+          "exists": true,
+          "size": 605
+        },
+        {
+          "path": "23_交付检查清单.md",
+          "exists": true,
+          "size": 882
+        },
+        {
+          "path": "99_执行状态.md",
+          "exists": true,
+          "size": 4197
+        }
+      ]
+    }
+  ],
+  "media": {
+    "preview_video": "",
+    "preview_frame": "",
+    "storyboard": [
+      "images/storyboard/S01.png",
+      "images/storyboard/S02.png",
+      "images/storyboard/S03.png",
+      "images/storyboard/S04.png",
+      "images/storyboard/S05.png",
+      "images/storyboard/S06.png",
+      "images/storyboard/S07.png",
+      "images/storyboard/S08.png",
+      "images/storyboard/S09.png"
+    ],
+    "step_cards": [
+      "images/step_cards/00_workflow_overview.png"
+    ],
+    "subtitles": [
+      "subtitles/jianying_subtitles.csv",
+      "subtitles/segments.json",
+      "subtitles/subtitle_report.md",
+      "subtitles/subtitles.ass",
+      "subtitles/subtitles.srt"
+    ],
+    "exports": [],
+    "video_clips": [],
+    "variants": []
+  },
+  "reports": {
+    "status": "99_执行状态.md",
+    "auto_edit": "exports/auto_edit_report.md",
+    "subtitle": "subtitles/subtitle_report.md"
+  }
+}

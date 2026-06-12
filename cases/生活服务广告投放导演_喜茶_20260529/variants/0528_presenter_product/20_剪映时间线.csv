@@ -1,0 +1,6 @@
+track,start,end,duration,asset_path,asset_type,shot_id,subtitle,voiceover,bgm,sfx,transition,effect,scale,position,notes
+V1,0,5,5,videos/dreamina/S01_host.mp4,video,S01,又想喝得清爽，又不想踩雷？,又想喝得清爽，又不想踩雷？,轻快信息流,whoosh,冷开场,轻微锐化,100%,center,主持人出镜
+V1,5,10,5,videos/dreamina/S02_product.mp4,video,S02,看这一杯的鲜果感,看这一杯的鲜果感,轻快信息流,ice,产品切入,微距感,100%,center,产品B-roll
+V1,10,15,5,videos/dreamina/S03_pickup.mp4,video,S03,取茶、逛街、看电影前都刚好,取茶、逛街、看电影前都刚好,轻快信息流,pop,环境切入,,100%,center,门店B-roll
+V1,15,20,5,videos/dreamina/S04_cta.mp4,video,S04,附近有店的话，现在就能下单,附近有店的话，现在就能下单,轻快信息流,tap,回主持人,轻CTA,100%,center,主持人召唤
+V1,20,23,3,videos/dreamina/S04_cta.mp4,video,S04,点进门店页，看实时产品和活动,点进门店页，看实时产品和活动,轻快信息流,button,定格,CTA,100%,center,结尾

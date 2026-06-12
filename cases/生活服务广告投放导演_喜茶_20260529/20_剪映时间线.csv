@@ -1,0 +1,10 @@
+track,start,end,duration,asset_path,asset_type,shot_id,subtitle,voiceover,bgm,sfx,transition,effect,scale,position,notes
+V1,0,3,3,videos/jimeng_clips/S01_bench.mp4,video,S01,有时候不是累，是一直没停下来,有时候不是累，是一直没停下来,安静轻电子,ambient,冷开场,轻微暗角,100%,center,首镜绝不露产品
+V1,3,8,5,videos/jimeng_clips/S02_message.mp4,video,S02,朋友说，下楼走三分钟,朋友说，下楼走三分钟,安静轻电子,phone_soft,自然切光,,100%,center,手机消息不出现真实软件
+V1,8,15,7,videos/jimeng_clips/S03_walk.mp4,video,S03,不用聊天，也不用解释,不用聊天，也不用解释，就走三分钟,安静轻电子,footstep,慢切,,100%,center,拍脚步和身体语言
+V1,15,23,8,videos/jimeng_clips/S04_pickup.mp4,video,S04,给自己一点空隙,就买一杯清爽的,安静轻电子,cup_soft,手部切入,,100%,center,饮品第一次自然出现
+V1,23,32,9,videos/jimeng_clips/S05_first_sip.mp4,video,S05,第一口下去，人才慢慢回来,第一口下去，人才慢慢回来,安静轻电子,sip,节奏放慢,轻微提亮,100%,center,情绪转折
+V1,32,42,10,videos/jimeng_clips/S06_pause.mp4,video,S06,暂停一下，也算继续生活,原来今天也没有那么糟,安静轻电子,room_tone,保留安静镜头,,100%,center,生活感核心
+V1,42,52,10,videos/jimeng_clips/S07_phone_again.mp4,video,S07,如果你也刚好在附近，给自己留三分钟,如果你也刚好在附近，给自己留三分钟,安静轻电子,phone_soft,轻转化,,100%,center,产品在手边自然出现
+V1,52,57,5,videos/jimeng_clips/S08_elevator.mp4,video,S08,附近有店的话，先下单，下来取,附近有店的话，先下单，下来取,安静轻电子,elevator_soft,自然过渡,,100%,center,行动路径轻露出
+V1,57,60,3,videos/jimeng_clips/S09_back_to_crowd.mp4,video,S09,给自己留三分钟,附近门店可下单，活动与价格以门店及平台实时信息为准,安静轻电子,soft_end,自然收尾,轻CTA,100%,center,不要大Logo硬收

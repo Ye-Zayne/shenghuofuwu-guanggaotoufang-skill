@@ -1,0 +1,65 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.0,
+    "text": "有时候不是累，是一直没停下来",
+    "shot_id": "S01",
+    "source": "timeline"
+  },
+  {
+    "start": 3.0,
+    "end": 8.0,
+    "text": "朋友说，下楼走三分钟",
+    "shot_id": "S02",
+    "source": "timeline"
+  },
+  {
+    "start": 8.0,
+    "end": 15.0,
+    "text": "不用聊天，也不用解释",
+    "shot_id": "S03",
+    "source": "timeline"
+  },
+  {
+    "start": 15.0,
+    "end": 23.0,
+    "text": "给自己一点空隙",
+    "shot_id": "S04",
+    "source": "timeline"
+  },
+  {
+    "start": 23.0,
+    "end": 32.0,
+    "text": "第一口下去，人才慢慢回来",
+    "shot_id": "S05",
+    "source": "timeline"
+  },
+  {
+    "start": 32.0,
+    "end": 42.0,
+    "text": "暂停一下，也算继续生活",
+    "shot_id": "S06",
+    "source": "timeline"
+  },
+  {
+    "start": 42.0,
+    "end": 52.0,
+    "text": "如果你也刚好在附近，给自己留三分钟",
+    "shot_id": "S07",
+    "source": "timeline"
+  },
+  {
+    "start": 52.0,
+    "end": 57.0,
+    "text": "附近有店的话，先下单，下来取",
+    "shot_id": "S08",
+    "source": "timeline"
+  },
+  {
+    "start": 57.0,
+    "end": 60.0,
+    "text": "给自己留三分钟",
+    "shot_id": "S09",
+    "source": "timeline"
+  }
+]
