@@ -21,6 +21,7 @@ MD_FILES = [
     "05_30秒剪辑版脚本.md",
     "06_15秒剪辑版脚本.md",
     "07_口播与字幕文案.md",
+    "07A_完整执行脚本.md",
     "08_镜头表与拍摄脚本.md",
     "09_正反打镜头设计.md",
     "10_拍摄执行清单.md",
@@ -37,6 +38,13 @@ MD_FILES = [
     "23_交付检查清单.md",
     "24_视频生成暂停与复跑说明.md",
     "99_执行状态.md",
+]
+
+DOC_FILES = [
+    "docs/镜头表与单元切分.md",
+    "docs/站位图.md",
+    "docs/关键帧Prompt_逐张拆分版.md",
+    "docs/Seedance_Prompt_逐单元.md",
 ]
 
 DIRS = [
@@ -124,6 +132,12 @@ def main() -> None:
         path = project / filename
         if not path.exists():
             title = filename.removesuffix(".md")
+            path.write_text(f"# {title}\n\n", encoding="utf-8")
+
+    for filename in DOC_FILES:
+        path = project / filename
+        if not path.exists():
+            title = path.name.removesuffix(".md")
             path.write_text(f"# {title}\n\n", encoding="utf-8")
 
     write_csv(project / "18_即梦批量生成任务表.csv", JIMENG_COLUMNS)

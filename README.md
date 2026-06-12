@@ -8,6 +8,49 @@
 - `cases/生活服务广告投放导演_喜茶_20260529/`：喜茶案例，停在即梦视频生成前。
 - `cases/生活服务广告投放导演_吉利汽车_20260610/`：吉利汽车案例，停在即梦视频生成前。
 
+## 安装到 Codex
+
+克隆仓库后，把 `skill/` 复制到本机 Codex skills 目录：
+
+```bash
+mkdir -p ~/.codex/skills/life-service-ad-director
+rsync -a --delete skill/ ~/.codex/skills/life-service-ad-director/
+```
+
+然后在 Codex 里用下面这种方式触发：
+
+```text
+用 $life-service-ad-director 为一家上海火锅店生成 9:16 信息流广告投放素材包，先停在即梦视频生成前。
+```
+
+## 快速开始
+
+创建一个新商家项目骨架：
+
+```bash
+python3 skill/scripts/scaffold_project.py "某某商家" --root ./work
+```
+
+生成字幕包：
+
+```bash
+python3 skill/scripts/subtitle_pipeline.py ./work/生活服务广告投放导演_某某商家_YYYYMMDD
+```
+
+生成资产索引和结果看板：
+
+```bash
+python3 skill/scripts/asset_manifest.py ./work/生活服务广告投放导演_某某商家_YYYYMMDD
+python3 skill/scripts/delivery_dashboard.py ./work/生活服务广告投放导演_某某商家_YYYYMMDD
+```
+
+更多说明见：
+
+- [快速使用指南](docs/QUICKSTART.md)
+- [案例索引](docs/CASE_INDEX.md)
+- [发布检查清单](docs/RELEASE_CHECKLIST.md)
+- [安全说明](SECURITY.md)
+
 ## 工作流
 
 1. 生成项目简报、投放策略、创意方向、3 秒钩子库。
@@ -49,3 +92,12 @@
 - `videos/dreamina_commands.sh`
 - `videos/manifest.md`
 
+## 仓库自检
+
+提交前可以运行：
+
+```bash
+python3 tools/validate_repo.py
+```
+
+它会检查 skill 必需文件、案例看板、脚本可执行性，以及是否误提交视频大文件。
